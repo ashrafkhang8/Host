@@ -63,8 +63,8 @@ footer p{
       <label class="logo">Free-Hosting-X™</label>
       <ul>
         <li><a class="active" href="https://99473ef82b9a.ngrok.io">phpMyAdmin</a></li>
-        <li><a href="Admin/index.php">F-Panel</a></li>
-        <li><a href="register/register.php">Register</a></li>
+        <li><a href="https://c28b63c9fc95.ngrok.io/main/">F-Panel</a></li>
+        <li><a href="https://c28b63c9fc95.ngrok.io/register/login.php">Register</a></li>
       </ul>
  </nav>
        
@@ -94,14 +94,14 @@ footer p{
              
 <td>
 <button type="button" class="btn">
-<a href="Admin/index.php">Login</a>
+<a href="https://c28b63c9fc95.ngrok.io/main/">Login</a>
 </button>
 </td>
 
-    <td><button type="button" class="btn"><a href="register/register.php">Signup</a>
+    <td><button type="button" class="btn"><a href="https://c28b63c9fc95.ngrok.io/register/register.php">Signup</a>
     </button></td>
     
-      <td><button type="button" class="btn"><a href="register/register.php">Login</a>
+      <td><button type="button" class="btn"><a href="https://c28b63c9fc95.ngrok.io/register/login.php">Login</a>
     </button></td>
     
        
